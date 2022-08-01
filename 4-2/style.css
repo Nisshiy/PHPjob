@@ -1,0 +1,50 @@
+.header{
+    display: flex;
+    width: 1000px;
+}
+
+.box1{
+    display: block;
+    background-color: #add8e6;
+    width: 200px;
+    height: 120px;
+}
+.box1>img{
+    width: 100%;
+}
+.box2-1{
+    background-color: #87ceeb;
+}
+.box2-2{
+    background-color: #00ffff;
+}
+.header-text{
+    display: table-cell;
+    height: 60px;
+    width: 800px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.main{
+    margin-top:10px;
+    margin-bottom:10px;
+    width: 1000px;
+}
+table{
+    margin: auto;
+}
+th{
+    background-color: #87ceeb;
+}
+td{
+    background-color: #e0ffff;
+}
+
+.footer{
+    width: 1000px;
+}
+.box3{
+    background-color: #00ced1;
+    height: 50px;
+}
